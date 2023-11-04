@@ -116,3 +116,7 @@ justify-content: space-evenly;
     align-items: center;
     justify-content: center;
 }
+.Logo {
+    display: flex;
+    justify-content: center;
+}
